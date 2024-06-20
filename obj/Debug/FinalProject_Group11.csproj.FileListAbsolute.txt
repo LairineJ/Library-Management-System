@@ -1,0 +1,163 @@
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form1.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form3.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminForm.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form6.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.MainUserLogin.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Register.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Student_Reg.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UserForm.resources
+C:\Users\Lenovo\Desktop\DESKTOP\CCP DEMO\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form4.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.exe
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.pdb
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.AssemblyReference.cache
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminForm.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form6.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form1.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Properties.Resources.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.MainUserLogin.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Register.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Student_Reg.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UserForm.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form4.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.GenerateResource.cache
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CoreCompileInputs.cache
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.exe
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.pdb
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.dll
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.xml
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CopyComplete
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminLogin.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminForm.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminLogin.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form6.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form1.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.MainUserLogin.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Register.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Student_Reg.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UserForm.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form4.resources
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Desktop\DESKTOP\Delete After Use\Final Project (CDE)\draft 1\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.pdb
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.exe
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.pdb
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.dll
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.xml
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.AssemblyReference.cache
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminForm.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminLogin.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form6.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form1.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Properties.Resources.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.MainUserLogin.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Register.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Student_Reg.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UserForm.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form4.resources
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.GenerateResource.cache
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CoreCompileInputs.cache
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CopyComplete
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.exe
+C:\Users\Julia Lairine Javier\Desktop\2nd yr, 1st sem\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminForm.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminLogin.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form6.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form1.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.MainUserLogin.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Register.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Student_Reg.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UserForm.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form4.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateBorrow.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateInventory.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteBorrow.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteInventory.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateBorrow.resources
+C:\Users\Lenovo\Downloads\cmd connect\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateInventory.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateBorrow.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateInventory.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteBorrow.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteInventory.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateBorrow.resources
+C:\Users\Julia Lairine Javier\Desktop\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateInventory.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminForm.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminLogin.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateBorrow.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateInventory.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteBorrow.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteInventory.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form6.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form1.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.MainUserLogin.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Register.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Student_Reg.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateBorrow.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateInventory.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UserForm.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form4.resources
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.exe
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.pdb
+C:\Users\Lenovo\Downloads\DRAFT 6 (CDE)\Draft 6 (CDE)\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.frmTerms.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.exe
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\bin\Debug\FinalProject_Group11.pdb
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.dll
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\bin\Debug\MySql.Data.xml
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.AssemblyReference.cache
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminForm.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.AdminLogin.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateBorrow.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.CreateInventory.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteBorrow.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.DeleteInventory.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form6.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form1.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.frmTerms.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Properties.Resources.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.MainUserLogin.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Register.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Student_Reg.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateBorrow.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UpdateInventory.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.UserForm.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.Form4.resources
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.GenerateResource.cache
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CoreCompileInputs.cache
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.csproj.CopyComplete
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.exe
+C:\Users\Julia Lairine Javier\Desktop\Final Ver - CDE\FinalProject_Group11\FinalProject_Group11\obj\Debug\FinalProject_Group11.pdb
